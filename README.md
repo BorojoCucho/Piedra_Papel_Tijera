@@ -49,8 +49,8 @@ Se usó sys.path[0] para resolver un problema de carga del icono desde rutas rel
 # Autor
 Joseph Alexander Morales Cardona
 Ingeniero informatico 
-
-MIT License
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# MIT License
 
 Copyright (c) 2025 Joseph Alexander Morales Cardona
 
