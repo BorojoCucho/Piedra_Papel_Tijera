@@ -48,6 +48,8 @@ Se usó sys.path[0] para resolver un problema de carga del icono desde rutas rel
 
 # Autor
 Joseph Alexander Morales Cardona
+
+
 Ingeniero informatico 
 
 
