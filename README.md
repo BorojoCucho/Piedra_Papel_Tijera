@@ -56,7 +56,9 @@ Ingeniero informatico
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-# MIT License
+<div style="background-color:#f2f2f2; padding: 1em; border-radius: 6px;">
+  
+## MIT License
 
 Copyright (c) 2025 Joseph Alexander Morales Cardona
 
@@ -77,4 +79,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+
+</div>
 
