@@ -28,7 +28,7 @@ Este es un sencillo pero divertido juego de **Piedra, Papel o Tijera**, creado c
 
 Puedes ejecutar el programa desde tu entorno favorito (como VS Code) o desde consola:
 
-```bash
+
 python juego_piedra_papel_tijera.py
 Asegúrate de que el archivo tijeras.ico se encuentre en la misma carpeta que el script.
 
